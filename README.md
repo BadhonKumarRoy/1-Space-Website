@@ -1,4 +1,4 @@
-# 1-Space Website - College Assignment
+# 1-Space Website - University Assignment
 
 This is my submission for the 2nd semester web design assignment. We were given a Figma design by our lecturer and had to recreate it as a webpage.
 
